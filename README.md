@@ -24,7 +24,7 @@ Ee hocam ben sei için 3 aylık almıştım contabo 400 gb en küçük paketi o 
 
 Veya o sunucuyu başka testnette kullanıp Kamatera 1 aylık ücretsize sei kurabilirsiniz.. Bunların hepsi tercih.
 
-# Minimum gereksinimler ekibin söylediği ve tavsiye ettiği
+# Minimum gereksinimler ekibin söylediği ve tavsiye ettiği.
 ```
 4 CPU
 16 RAM
